@@ -1,0 +1,193 @@
+{
+  "pH": {
+    "7.1 >": {
+      "pH": {
+        "6.0 >": {
+          "res": {
+            "type": "resault",
+            "result type": "pure",
+            "class": "low",
+            "count": 131
+          }
+        },
+        "6.0 <": {
+          "Fat ": {
+            "High": {
+              "Turbidity": {
+                "High": {
+                  "Colour": {
+                    "245.0 >": {
+                      "type": "resault",
+                      "result type": "percentage",
+                      "res": {
+                        "high": {
+                          "class": "high",
+                          "count": "10",
+                          "percentage": 83
+                        },
+                        "low": {
+                          "class": "low",
+                          "count": "2",
+                          "percentage": 17
+                        }
+                      }
+                    },
+                    "245.0 <": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "high",
+                        "count": 125
+                      }
+                    }
+                  }
+                },
+                "Low": {
+                  "Temprature": {
+                    "47.5 >": {
+                      "pH": {
+                        "6.55 >": {
+                          "type": "resault",
+                          "result type": "percentage",
+                          "res": {
+                            "high": {
+                              "class": "high",
+                              "count": "1",
+                              "percentage": 2
+                            },
+                            "medium": {
+                              "class": "medium",
+                              "count": "52",
+                              "percentage": 98
+                            }
+                          }
+                        },
+                        "6.55 <": {
+                          "Temprature": {
+                            "38.0 >": {
+                              "type": "resault",
+                              "result type": "percentage",
+                              "res": {
+                                "high": {
+                                  "class": "high",
+                                  "count": "48",
+                                  "percentage": 98
+                                },
+                                "medium": {
+                                  "class": "medium",
+                                  "count": "1",
+                                  "percentage": 2
+                                }
+                              }
+                            },
+                            "38.0 <": {
+                              "pH": {
+                                "6.8 >": {
+                                  "type": "resault",
+                                  "result type": "percentage",
+                                  "res": {
+                                    "high": {
+                                      "class": "high",
+                                      "count": "23",
+                                      "percentage": 47
+                                    },
+                                    "medium": {
+                                      "class": "medium",
+                                      "count": "26",
+                                      "percentage": 53
+                                    }
+                                  }
+                                },
+                                "6.8 <": {
+                                  "type": "resault",
+                                  "result type": "percentage",
+                                  "res": {
+                                    "high": {
+                                      "class": "high",
+                                      "count": "3",
+                                      "percentage": 6
+                                    },
+                                    "medium": {
+                                      "class": "medium",
+                                      "count": "45",
+                                      "percentage": 94
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "47.5 <": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "low",
+                        "count": 19
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Low": {
+              "Temprature": {
+                "47.5 >": {
+                  "Odor": {
+                    "Bad": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "medium",
+                        "count": 154
+                      }
+                    },
+                    "Good": {
+                      "type": "resault",
+                      "result type": "percentage",
+                      "res": {
+                        "high": {
+                          "class": "high",
+                          "count": "1",
+                          "percentage": 3
+                        },
+                        "low": {
+                          "class": "low",
+                          "count": "1",
+                          "percentage": 3
+                        },
+                        "medium": {
+                          "class": "medium",
+                          "count": "29",
+                          "percentage": 94
+                        }
+                      }
+                    }
+                  }
+                },
+                "47.5 <": {
+                  "res": {
+                    "type": "resault",
+                    "result type": "pure",
+                    "class": "low",
+                    "count": 17
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7.1 <": {
+      "res": {
+        "type": "resault",
+        "result type": "pure",
+        "class": "low",
+        "count": 169
+      }
+    }
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "pH": {
+    "7.1 >": {
+      "pH": {
+        "6.0 <": {
+          "Fat ": {
+            "High": {
+              "Turbidity": {
+                "Low": {
+                  "Temprature": {
+                    "47.5 >": {
+                      "pH": {
+                        "6.55 <": {
+                          "Temprature": {
+                            "38.0 >": {
+                              "Temprature": {
+                                "35.0 >": {
+                                  "res": {
+                                    "type": "resault",
+                                    "result type": "pure",
+                                    "class": "medium",
+                                    "count": 1
+                                  }
+                                },
+                                "35.0 <": {
+                                  "res": {
+                                    "type": "resault",
+                                    "result type": "pure",
+                                    "class": "high",
+                                    "count": 48
+                                  }
+                                }
+                              }
+                            },
+                            "38.0 <": {
+                              "pH": {
+                                "6.8 >": {
+                                  "Temprature": {
+                                    "45.0 <": {
+                                      "pH": {
+                                        "6.7 <": {
+                                          "Taste": {
+                                            "Good": {
+                                              "Odor": {
+                                                "Good": {
+                                                  "type": "resault",
+                                                  "result type": "percentage",
+                                                  "res": {
+                                                    "high": {
+                                                      "class": "high",
+                                                      "count": 1,
+                                                      "percentage": 0.5
+                                                    },
+                                                    "low": {
+                                                      "class": "low",
+                                                      "count": 0,
+                                                      "percentage": 0
+                                                    },
+                                                    "medium": {
+                                                      "class": "medium",
+                                                      "count": 1,
+                                                      "percentage": 0.5
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "6.7 >": {
+                                          "res": {
+                                            "type": "resault",
+                                            "result type": "pure",
+                                            "class": "medium",
+                                            "count": 15
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "45.0 >": {
+                                      "Taste": {
+                                        "Good": {
+                                          "Temprature": {
+                                            "45.0 <": {
+                                              "Odor": {
+                                                "Good": {
+                                                  "type": "resault",
+                                                  "result type": "percentage",
+                                                  "res": {
+                                                    "high": {
+                                                      "class": "high",
+                                                      "count": 1,
+                                                      "percentage": 0.5
+                                                    },
+                                                    "low": {
+                                                      "class": "low",
+                                                      "count": 0,
+                                                      "percentage": 0
+                                                    },
+                                                    "medium": {
+                                                      "class": "medium",
+                                                      "count": 1,
+                                                      "percentage": 0.5
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            "45.0 >": {
+                                              "res": {
+                                                "type": "resault",
+                                                "result type": "pure",
+                                                "class": "high",
+                                                "count": 21
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "Bad": {
+                                          "res": {
+                                            "type": "resault",
+                                            "result type": "pure",
+                                            "class": "medium",
+                                            "count": 9
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "6.8 <": {
+                                  "Odor": {
+                                    "Good": {
+                                      "res": {
+                                        "type": "resault",
+                                        "result type": "pure",
+                                        "class": "high",
+                                        "count": 3
+                                      }
+                                    },
+                                    "Bad": {
+                                      "res": {
+                                        "type": "resault",
+                                        "result type": "pure",
+                                        "class": "medium",
+                                        "count": 45
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "6.55 >": {
+                          "Odor": {
+                            "Good": {
+                              "res": {
+                                "type": "resault",
+                                "result type": "pure",
+                                "class": "high",
+                                "count": 1
+                              }
+                            },
+                            "Bad": {
+                              "res": {
+                                "type": "resault",
+                                "result type": "pure",
+                                "class": "medium",
+                                "count": 52
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "47.5 <": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "low",
+                        "count": 19
+                      }
+                    }
+                  }
+                },
+                "High": {
+                  "Colour": {
+                    "245.0 >": {
+                      "pH": {
+                        "6.55 >": {
+                          "res": {
+                            "type": "resault",
+                            "result type": "pure",
+                            "class": "low",
+                            "count": 2
+                          }
+                        },
+                        "6.55 <": {
+                          "res": {
+                            "type": "resault",
+                            "result type": "pure",
+                            "class": "high",
+                            "count": 10
+                          }
+                        }
+                      }
+                    },
+                    "245.0 <": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "high",
+                        "count": 125
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Low": {
+              "Temprature": {
+                "47.5 >": {
+                  "Odor": {
+                    "Good": {
+                      "Temprature": {
+                        "42.5 >": {
+                          "Taste": {
+                            "Bad": {
+                              "Turbidity": {
+                                "High": {
+                                  "res": {
+                                    "type": "resault",
+                                    "result type": "pure",
+                                    "class": "low",
+                                    "count": 1
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "42.5 <": {
+                          "res": {
+                            "type": "resault",
+                            "result type": "pure",
+                            "class": "medium",
+                            "count": 29
+                          }
+                        }
+                      }
+                    },
+                    "Bad": {
+                      "res": {
+                        "type": "resault",
+                        "result type": "pure",
+                        "class": "medium",
+                        "count": 154
+                      }
+                    }
+                  }
+                },
+                "47.5 <": {
+                  "res": {
+                    "type": "resault",
+                    "result type": "pure",
+                    "class": "low",
+                    "count": 17
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6.0 >": {
+          "res": {
+            "type": "resault",
+            "result type": "pure",
+            "class": "low",
+            "count": 131
+          }
+        }
+      }
+    },
+    "7.1 <": {
+      "res": {
+        "type": "resault",
+        "result type": "pure",
+        "class": "low",
+        "count": 169
+      }
+    }
+  }
+}
